@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "471344300238",
+    "project_id": "appse7en-coallab",
+    "storage_bucket": "appse7en-coallab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471344300238:android:296e732f85c81bcc4d909f",
+        "android_client_info": {
+          "package_name": "com.example.appse7en"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYPOlywGJrBvPl1KivK554cJAsMM2DB1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
